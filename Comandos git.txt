@@ -1,0 +1,11 @@
+Comando basicos de git
+
+-git init
+-git remote add origin ...
+-git origin main
+-git checkout -b main
+-git branch -M master/main
+-git add .
+-git commit -m " "
+-git push
+-git push origin master/main
